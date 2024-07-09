@@ -53,3 +53,10 @@ int main(int agrc, char** agrv) {
     }
   }
 }
+
+// TODO : проверить существование
+/**
+ * if (!filesystem::exists(p)) {
+ *    return false;
+ * }
+ */

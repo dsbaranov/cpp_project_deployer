@@ -1,0 +1,3 @@
+C:/Users/baranov_d/Documents/yandex/sprint6/deploy_app/build/CMakeFiles/deploy_app.dir
+C:/Users/baranov_d/Documents/yandex/sprint6/deploy_app/build/CMakeFiles/edit_cache.dir
+C:/Users/baranov_d/Documents/yandex/sprint6/deploy_app/build/CMakeFiles/rebuild_cache.dir

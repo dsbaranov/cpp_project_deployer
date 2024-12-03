@@ -1,8 +1,7 @@
 [
 {
-  "directory": "C:/Users/baranov_d/Documents/yandex/sprint6/deploy_app/build",
-  "command": "C:\\Software\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\deploy_app.dir\\main.cpp.obj -c C:\\Users\\baranov_d\\Documents\\yandex\\sprint6\\deploy_app\\main.cpp",
-  "file": "C:\\Users\\baranov_d\\Documents\\yandex\\sprint6\\deploy_app\\main.cpp",
-  "output": "CMakeFiles\\deploy_app.dir\\main.cpp.obj"
+  "directory": "/home/marhur/Documents/yandex/cpp_project_deployer/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/deploy_app.dir/main.cpp.o -c /home/marhur/Documents/yandex/cpp_project_deployer/main.cpp",
+  "file": "/home/marhur/Documents/yandex/cpp_project_deployer/main.cpp"
 }
 ]

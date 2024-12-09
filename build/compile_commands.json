@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/marhur/Documents/yandex/cpp_project_deployer/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/deploy_app.dir/main.cpp.o -c /home/marhur/Documents/yandex/cpp_project_deployer/main.cpp",
-  "file": "/home/marhur/Documents/yandex/cpp_project_deployer/main.cpp"
-}
-]

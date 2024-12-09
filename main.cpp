@@ -61,6 +61,12 @@ int main(int agrc, char **agrv)
         }
       }
       {
+        ofstream clang_tidy_file(project_root_dir / path(".clang-tidy"));
+        clang_tidy_file << "---\n"
+                        << "Checks : '*,-llvm-*,-llvmlibc-*,-google-build-using-namespace,-modernize-use-trailing-return-type'\n";
+        clang_tidy_file.close();
+      }
+      {
         ofstream log_duration_file(project_root_dir / path("log_duration.h"));
         if (log_duration_file.is_open())
         {
@@ -87,6 +93,15 @@ int main(int agrc, char **agrv)
               << "};\n";
           log_duration_file.close();
         };
+      }
+      {
+        ofstream gitignore(project_root_dir / path(".gitignore"));
+        if (gitignore.is_open())
+        {
+          gitignore << "build/*\n"
+                    << ".vscode\n";
+          gitignore.close();
+        }
       }
     }
   }

@@ -1,3 +1,0 @@
-/home/marhur/Documents/yandex/cpp_project_deployer/build/CMakeFiles/deploy_app.dir
-/home/marhur/Documents/yandex/cpp_project_deployer/build/CMakeFiles/edit_cache.dir
-/home/marhur/Documents/yandex/cpp_project_deployer/build/CMakeFiles/rebuild_cache.dir
